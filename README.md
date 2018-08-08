@@ -7,5 +7,6 @@ Cadastro de usuários direto no formulário com a utilizaçõo de POST e GET, se
 
 # Metodologias CRUD 
 Já o projeto CRUD_OO passa a ser um pouco mais avançado, pois utiliza conceito em Orientado a Objeto.
+
 A metodologia CRUD(CREATE, READ, UPDATE, DELETE).
 
